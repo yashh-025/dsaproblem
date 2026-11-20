@@ -69,3 +69,5 @@ list.insert(node(53),2)
 
 # list.print()
 list.reverse()
+
+#imp code
