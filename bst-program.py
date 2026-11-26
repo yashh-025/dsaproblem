@@ -17,6 +17,7 @@ class BST:
             while True:
                 if new_node.data<temp.data: #left subtree
                     if temp.left is None:
+                    
                         temp.left=new_node
                         return
                     else:
